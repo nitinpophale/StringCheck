@@ -1,0 +1,11 @@
+F:\GitHub\TestApp\obj\Release\netcoreapp3.1\PubTmp\Out\TestApp.exe
+F:\GitHub\TestApp\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+F:\GitHub\TestApp\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+F:\GitHub\TestApp\obj\Release\netcoreapp3.1\PubTmp\Out\TestApp.dll
+F:\GitHub\TestApp\obj\Release\netcoreapp3.1\PubTmp\Out\TestApp.deps.json
+F:\GitHub\TestApp\obj\Release\netcoreapp3.1\PubTmp\Out\TestApp.runtimeconfig.json
+F:\GitHub\TestApp\obj\Release\netcoreapp3.1\PubTmp\Out\TestApp.pdb
+F:\GitHub\TestApp\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.OpenApi.dll
+F:\GitHub\TestApp\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+F:\GitHub\TestApp\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\GitHub\TestApp\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
